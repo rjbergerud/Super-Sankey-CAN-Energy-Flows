@@ -1,0 +1,12 @@
+name: supersankey
+
+dependencies:
+  - python=3
+  - numpy
+  - pandas
+  - notebook
+  - nb_conda
+  - pip
+  - pip:
+    - matplotlib
+    - chart-studio
