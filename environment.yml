@@ -12,3 +12,4 @@ dependencies:
     - matplotlib
     - chart-studio
     - nbdime
+    - holoviews
