@@ -11,3 +11,4 @@ dependencies:
   - pip:
     - matplotlib
     - chart-studio
+    - nbdime
