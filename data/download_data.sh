@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # Layer 1
 wget -nc https://www.cer-rec.gc.ca/open/imports-exports/electricity-exports-and-imports-annual.csv
 wget -nc https://www.cer-rec.gc.ca/open/imports-exports/electricity-exports-and-imports-data-dictionary.csv
