@@ -6,7 +6,10 @@ dependencies:
   - pandas
   - notebook
   - nb_conda
+  - ipykernel
   - pip
   - pip:
     - matplotlib
     - chart-studio
+    - nbdime
+    - holoviews
