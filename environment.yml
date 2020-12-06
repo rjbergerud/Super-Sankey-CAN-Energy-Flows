@@ -8,11 +8,15 @@ dependencies:
   - nb_conda
   - ipykernel
   - pip
+  - qgrid
+  - pivottablejs
+  - jupyter_contrib_nbextensions
+  - ipywidgets
   - pip:
     - matplotlib
     - chart-studio
     - nbdime
     - holoviews
-    - airtable-python-wrappers
+    - airtable-python-wrapper
     - yapf
-    - dotenv
+    - python-dotenv
