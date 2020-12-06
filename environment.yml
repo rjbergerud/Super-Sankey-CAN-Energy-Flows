@@ -13,3 +13,6 @@ dependencies:
     - chart-studio
     - nbdime
     - holoviews
+    - airtable-python-wrappers
+    - yapf
+    - dotenv
