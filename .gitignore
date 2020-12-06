@@ -5,6 +5,8 @@ site/node_modules
 site/dist
 site/.cache
 
+.env
+
 data/*
 !data/.gitkeep
 !data/download_data.sh
