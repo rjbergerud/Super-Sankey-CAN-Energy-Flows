@@ -33,6 +33,5 @@ For nice diff's of notebook's, you can change your git configuration with `nbdim
 
 
 ## Guide & Troubleshooting
-- If packages are missing, try installing using `conda` (preferred over pip since some packages are jupyter extensions, and conda takes care of their setup).
-- Make sure to add newly required packages to environment.yml (conda doesn't add them automatically):w
-
+- If packages are missing, try installing using `conda` (preferred over pip since some packages are jupyter extensions, and conda takes care of their setup).  Try `conda update --file environment.yml`
+- Make sure to add newly required packages to environment.yml (conda doesn't add them automatically).
