@@ -1,0 +1,29 @@
+Year,Energy type,Type of dwelling,VALUE,Unit of measurement
+2015,"Total, all energy types",Single-detached,917854816.0,Gigajoules
+2015,Electricity,Single-detached,390872565.0,Gigajoules
+2015,Natural gas,Single-detached,486029605.0,Gigajoules
+2015,Heating oil,Single-detached,40952645.0,Gigajoules
+2015,"Total, all energy types",Double,55596718.0,Gigajoules
+2015,Electricity,Double,27577929.0,Gigajoules
+2015,Natural gas,Double,27396363.0,Gigajoules
+2015,Heating oil,Double,,Gigajoules
+2015,"Total, all energy types",Row or terrace,64455291.0,Gigajoules
+2015,Electricity,Row or terrace,26325653.0,Gigajoules
+2015,Natural gas,Row or terrace,37636903.0,Gigajoules
+2015,Heating oil,Row or terrace,,Gigajoules
+2015,"Total, all energy types",Duplex,44807930.0,Gigajoules
+2015,Electricity,Duplex,22474065.0,Gigajoules
+2015,Natural gas,Duplex,20475292.0,Gigajoules
+2015,Heating oil,Duplex,1858572.0,Gigajoules
+2015,"Total, all energy types",Low-rise apartment (fewer than 5 stories),96194901.0,Gigajoules
+2015,Electricity,Low-rise apartment (fewer than 5 stories),58944196.0,Gigajoules
+2015,Natural gas,Low-rise apartment (fewer than 5 stories),34570581.0,Gigajoules
+2015,Heating oil,Low-rise apartment (fewer than 5 stories),2680124.0,Gigajoules
+2015,"Total, all energy types",High-rise apartment (5 stories or more),44967901.0,Gigajoules
+2015,Electricity,High-rise apartment (5 stories or more),28807484.0,Gigajoules
+2015,Natural gas,High-rise apartment (5 stories or more),15858020.0,Gigajoules
+2015,Heating oil,High-rise apartment (5 stories or more),,Gigajoules
+2015,"Total, all energy types",Mobile home,9661935.0,Gigajoules
+2015,Electricity,Mobile home,4148510.0,Gigajoules
+2015,Natural gas,Mobile home,5015047.0,Gigajoules
+2015,Heating oil,Mobile home,,Gigajoules
