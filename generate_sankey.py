@@ -6,6 +6,10 @@ from bokeh.resources import INLINE
 
 if len(sys.argv) == 2:
     file_path = sys.argv[1]
+    edges = df[['source', 'target', 'value']]
+    edges = edges.dropna(how="any")
+    edges = edges.fillna(0)
+    edges = edges[edges['value'] != 0]
 else:
     file_path = "data/sankey_example.csv"
 
