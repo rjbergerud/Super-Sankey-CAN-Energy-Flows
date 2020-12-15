@@ -1,0 +1,279 @@
+Source,Target,Value,Units,Table ID
+Electricity,"Copper, Nickel, Lead and Zinc Mines",19.7,Petajoules,id_ca_e_9
+Natural Gas,"Copper, Nickel, Lead and Zinc Mines",2.3,Petajoules,id_ca_e_9
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene","Copper, Nickel, Lead and Zinc Mines",13.4,Petajoules,id_ca_e_9
+LPG and Gas Plant NGL,"Copper, Nickel, Lead and Zinc Mines",1.1,Petajoules,id_ca_e_9
+Electricity,Iron Mines,15.0,Petajoules,id_ca_e_10
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Iron Mines,8.9,Petajoules,id_ca_e_10
+Heavy Fuel Oil,Iron Mines,,Petajoules,id_ca_e_10
+Coke and Coke Oven Gas,Iron Mines,,Petajoules,id_ca_e_10
+Electricity,Gold and Silver Mines,15.6,Petajoules,id_ca_e_11
+Natural Gas,Gold and Silver Mines,1.3,Petajoules,id_ca_e_11
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Gold and Silver Mines,11.8,Petajoules,id_ca_e_11
+Heavy Fuel Oil,Gold and Silver Mines,,Petajoules,id_ca_e_11
+LPG and Gas Plant NGL,Gold and Silver Mines,1.2,Petajoules,id_ca_e_11
+Coal,Gold and Silver Mines,,Petajoules,id_ca_e_11
+Electricity,Other Metal Mines,2.7,Petajoules,id_ca_e_12
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Other Metal Mines,1.0,Petajoules,id_ca_e_12
+LPG and Gas Plant NGL,Other Metal Mines,1.9,Petajoules,id_ca_e_12
+Electricity,Salt Mines,0.7,Petajoules,id_ca_e_13
+Natural Gas,Salt Mines,2.2,Petajoules,id_ca_e_13
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Salt Mines,0.2,Petajoules,id_ca_e_13
+Heavy Fuel Oil,Salt Mines,,Petajoules,id_ca_e_13
+Electricity,Potash Mines,10.0,Petajoules,id_ca_e_14
+Natural Gas,Potash Mines,30.7,Petajoules,id_ca_e_14
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Potash Mines,0.3,Petajoules,id_ca_e_14
+Electricity,Other Non-Metal Mines,0.4,Petajoules,id_ca_e_15
+Natural Gas,Other Non-Metal Mines,0.7,Petajoules,id_ca_e_15
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Other Non-Metal Mines,7.5,Petajoules,id_ca_e_15
+LPG and Gas Plant NGL,Other Non-Metal Mines,1.7,Petajoules,id_ca_e_15
+Electricity,Upstream Mining,54.5,Petajoules,id_ca_e_16
+Natural Gas,Upstream Mining,769.6,Petajoules,id_ca_e_16
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Upstream Mining,74.5,Petajoules,id_ca_e_16
+Still Gas and Petroleum Coke,Upstream Mining,216.6,Petajoules,id_ca_e_16
+LPG and Gas Plant NGL,Upstream Mining,43.9,Petajoules,id_ca_e_16
+Electricity,Fruit and Vegetable Industries,3.8,Petajoules,id_ca_e_17
+Natural Gas,Fruit and Vegetable Industries,,Petajoules,id_ca_e_17
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Fruit and Vegetable Industries,0.1,Petajoules,id_ca_e_17
+Heavy Fuel Oil,Fruit and Vegetable Industries,,Petajoules,id_ca_e_17
+Wood Waste and Pulping Liquor,Fruit and Vegetable Industries,,Petajoules,id_ca_e_17
+Other1,Fruit and Vegetable Industries,,Petajoules,id_ca_e_17
+Electricity,Dairy Products Industry,3.9,Petajoules,id_ca_e_18
+Natural Gas,Dairy Products Industry,,Petajoules,id_ca_e_18
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Dairy Products Industry,,Petajoules,id_ca_e_18
+Heavy Fuel Oil,Dairy Products Industry,,Petajoules,id_ca_e_18
+LPG and Gas Plant NGL,Dairy Products Industry,,Petajoules,id_ca_e_18
+Wood Waste and Pulping Liquor,Dairy Products Industry,,Petajoules,id_ca_e_18
+Electricity,Meat Products Industries,6.5,Petajoules,id_ca_e_19
+Natural Gas,Meat Products Industries,,Petajoules,id_ca_e_19
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Meat Products Industries,0.3,Petajoules,id_ca_e_19
+Heavy Fuel Oil,Meat Products Industries,,Petajoules,id_ca_e_19
+LPG and Gas Plant NGL,Meat Products Industries,0.1,Petajoules,id_ca_e_19
+Wood Waste and Pulping Liquor,Meat Products Industries,,Petajoules,id_ca_e_19
+Electricity,Bakery Products Industries,4.0,Petajoules,id_ca_e_20
+Natural Gas,Bakery Products Industries,4.5,Petajoules,id_ca_e_20
+LPG and Gas Plant NGL,Bakery Products Industries,0.3,Petajoules,id_ca_e_20
+Electricity,Beverage Industries (excluding breweries),1.7,Petajoules,id_ca_e_21
+Natural Gas,Beverage Industries (excluding breweries),5.5,Petajoules,id_ca_e_21
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Beverage Industries (excluding breweries),,Petajoules,id_ca_e_21
+Heavy Fuel Oil,Beverage Industries (excluding breweries),,Petajoules,id_ca_e_21
+LPG and Gas Plant NGL,Beverage Industries (excluding breweries),,Petajoules,id_ca_e_21
+Electricity,Breweries Industries,1.0,Petajoules,id_ca_e_22
+Natural Gas,Breweries Industries,2.4,Petajoules,id_ca_e_22
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Breweries Industries,,Petajoules,id_ca_e_22
+Heavy Fuel Oil,Breweries Industries,,Petajoules,id_ca_e_22
+LPG and Gas Plant NGL,Breweries Industries,,Petajoules,id_ca_e_22
+Other1,Breweries Industries,,Petajoules,id_ca_e_22
+Electricity,Tobacco Products Industries,0.1,Petajoules,id_ca_e_23
+Natural Gas,Tobacco Products Industries,,Petajoules,id_ca_e_23
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Tobacco Products Industries,,Petajoules,id_ca_e_23
+LPG and Gas Plant NGL,Tobacco Products Industries,,Petajoules,id_ca_e_23
+Electricity,Textile Mills,1.6,Petajoules,id_ca_e_24
+Natural Gas,Textile Mills,,Petajoules,id_ca_e_24
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Textile Mills,,Petajoules,id_ca_e_24
+LPG and Gas Plant NGL,Textile Mills,,Petajoules,id_ca_e_24
+Electricity,Textile Products Mills,1.0,Petajoules,id_ca_e_25
+Natural Gas,Textile Products Mills,,Petajoules,id_ca_e_25
+Heavy Fuel Oil,Textile Products Mills,,Petajoules,id_ca_e_25
+Electricity,Clothing Industries,0.3,Petajoules,id_ca_e_26
+Natural Gas,Clothing Industries,,Petajoules,id_ca_e_26
+Heavy Fuel Oil,Clothing Industries,,Petajoules,id_ca_e_26
+LPG and Gas Plant NGL,Clothing Industries,,Petajoules,id_ca_e_26
+Other1,Clothing Industries,,Petajoules,id_ca_e_26
+Electricity,Leather and Allied Products Industries,0.2,Petajoules,id_ca_e_27
+Natural Gas,Leather and Allied Products Industries,0.1,Petajoules,id_ca_e_27
+Electricity,Wood Products Industries,,Petajoules,id_ca_e_28
+Natural Gas,Wood Products Industries,,Petajoules,id_ca_e_28
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Wood Products Industries,3.3,Petajoules,id_ca_e_28
+Heavy Fuel Oil,Wood Products Industries,,Petajoules,id_ca_e_28
+LPG and Gas Plant NGL,Wood Products Industries,,Petajoules,id_ca_e_28
+Wood Waste and Pulping Liquor,Wood Products Industries,,Petajoules,id_ca_e_28
+Other1,Wood Products Industries,,Petajoules,id_ca_e_28
+Electricity,Pulp Mills,50.1,Petajoules,id_ca_e_29
+Natural Gas,Pulp Mills,,Petajoules,id_ca_e_29
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Pulp Mills,0.9,Petajoules,id_ca_e_29
+Heavy Fuel Oil,Pulp Mills,3.8,Petajoules,id_ca_e_29
+LPG and Gas Plant NGL,Pulp Mills,,Petajoules,id_ca_e_29
+Wood Waste and Pulping Liquor,Pulp Mills,,Petajoules,id_ca_e_29
+Other1,Pulp Mills,,Petajoules,id_ca_e_29
+Electricity,Paper Mills (except newsprint),26.4,Petajoules,id_ca_e_30
+Natural Gas,Paper Mills (except newsprint),,Petajoules,id_ca_e_30
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Paper Mills (except newsprint),0.1,Petajoules,id_ca_e_30
+Heavy Fuel Oil,Paper Mills (except newsprint),,Petajoules,id_ca_e_30
+Wood Waste and Pulping Liquor,Paper Mills (except newsprint),,Petajoules,id_ca_e_30
+Other1,Paper Mills (except newsprint),,Petajoules,id_ca_e_30
+Electricity,Newsprint Mills,45.0,Petajoules,id_ca_e_31
+Natural Gas,Newsprint Mills,,Petajoules,id_ca_e_31
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Newsprint Mills,0.1,Petajoules,id_ca_e_31
+Heavy Fuel Oil,Newsprint Mills,0.7,Petajoules,id_ca_e_31
+Wood Waste and Pulping Liquor,Newsprint Mills,,Petajoules,id_ca_e_31
+Other1,Newsprint Mills,0.5,Petajoules,id_ca_e_31
+Electricity,Paperboard Mills,6.1,Petajoules,id_ca_e_32
+Natural Gas,Paperboard Mills,11.2,Petajoules,id_ca_e_32
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Paperboard Mills,,Petajoules,id_ca_e_32
+Heavy Fuel Oil,Paperboard Mills,,Petajoules,id_ca_e_32
+Wood Waste and Pulping Liquor,Paperboard Mills,,Petajoules,id_ca_e_32
+Other1,Paperboard Mills,,Petajoules,id_ca_e_32
+Electricity,Other Pulp and Paper Manufacturing,11.6,Petajoules,id_ca_e_33
+Natural Gas,Other Pulp and Paper Manufacturing,8.9,Petajoules,id_ca_e_33
+Heavy Fuel Oil,Other Pulp and Paper Manufacturing,0.2,Petajoules,id_ca_e_33
+LPG and Gas Plant NGL,Other Pulp and Paper Manufacturing,0.1,Petajoules,id_ca_e_33
+Wood Waste and Pulping Liquor,Other Pulp and Paper Manufacturing,10.5,Petajoules,id_ca_e_33
+Electricity,Converted Paper Products Industry,7.2,Petajoules,id_ca_e_34
+Natural Gas,Converted Paper Products Industry,,Petajoules,id_ca_e_34
+Heavy Fuel Oil,Converted Paper Products Industry,,Petajoules,id_ca_e_34
+LPG and Gas Plant NGL,Converted Paper Products Industry,0.1,Petajoules,id_ca_e_34
+Wood Waste and Pulping Liquor,Converted Paper Products Industry,,Petajoules,id_ca_e_34
+Other1,Converted Paper Products Industry,,Petajoules,id_ca_e_34
+Electricity,Printing and Related Support Activities,3.1,Petajoules,id_ca_e_35
+Natural Gas,Printing and Related Support Activities,1.9,Petajoules,id_ca_e_35
+Electricity,Petroleum Refining,17.6,Petajoules,id_ca_e_36
+Natural Gas,Petroleum Refining,54.7,Petajoules,id_ca_e_36
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Petroleum Refining,,Petajoules,id_ca_e_36
+Heavy Fuel Oil,Petroleum Refining,,Petajoules,id_ca_e_36
+Still Gas and Petroleum Coke,Petroleum Refining,240.1,Petajoules,id_ca_e_36
+LPG and Gas Plant NGL,Petroleum Refining,2.1,Petajoules,id_ca_e_36
+Electricity,Petrochemical Industry,3.6,Petajoules,id_ca_e_37
+Natural Gas,Petrochemical Industry,,Petajoules,id_ca_e_37
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Petrochemical Industry,,Petajoules,id_ca_e_37
+Heavy Fuel Oil,Petrochemical Industry,,Petajoules,id_ca_e_37
+LPG and Gas Plant NGL,Petrochemical Industry,,Petajoules,id_ca_e_37
+Other1,Petrochemical Industry,,Petajoules,id_ca_e_37
+Electricity,Industrial Gas Industry,,Petajoules,id_ca_e_38
+Natural Gas,Industrial Gas Industry,,Petajoules,id_ca_e_38
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Industrial Gas Industry,,Petajoules,id_ca_e_38
+Heavy Fuel Oil,Industrial Gas Industry,,Petajoules,id_ca_e_38
+Electricity,Alkali and Chlorine Manufacturing,,Petajoules,id_ca_e_39
+Natural Gas,Alkali and Chlorine Manufacturing,,Petajoules,id_ca_e_39
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Alkali and Chlorine Manufacturing,,Petajoules,id_ca_e_39
+Heavy Fuel Oil,Alkali and Chlorine Manufacturing,,Petajoules,id_ca_e_39
+LPG and Gas Plant NGL,Alkali and Chlorine Manufacturing,,Petajoules,id_ca_e_39
+Electricity,All Other Basic Inorganic Chemical Manufacturing,24.8,Petajoules,id_ca_e_40
+Natural Gas,All Other Basic Inorganic Chemical Manufacturing,6.7,Petajoules,id_ca_e_40
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",All Other Basic Inorganic Chemical Manufacturing,,Petajoules,id_ca_e_40
+Heavy Fuel Oil,All Other Basic Inorganic Chemical Manufacturing,,Petajoules,id_ca_e_40
+Other1,All Other Basic Inorganic Chemical Manufacturing,,Petajoules,id_ca_e_40
+Electricity,Chemical Fertilizer (except Potash) Manufacturing,6.5,Petajoules,id_ca_e_41
+Natural Gas,Chemical Fertilizer (except Potash) Manufacturing,,Petajoules,id_ca_e_41
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Chemical Fertilizer (except Potash) Manufacturing,,Petajoules,id_ca_e_41
+Heavy Fuel Oil,Chemical Fertilizer (except Potash) Manufacturing,,Petajoules,id_ca_e_41
+Other1,Chemical Fertilizer (except Potash) Manufacturing,,Petajoules,id_ca_e_41
+Electricity,Other Chemical Manufacturing,17.4,Petajoules,id_ca_e_42
+Natural Gas,Other Chemical Manufacturing,57.1,Petajoules,id_ca_e_42
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Other Chemical Manufacturing,0.2,Petajoules,id_ca_e_42
+Still Gas and Petroleum Coke,Other Chemical Manufacturing,0.9,Petajoules,id_ca_e_42
+LPG and Gas Plant NGL,Other Chemical Manufacturing,0.1,Petajoules,id_ca_e_42
+Other1,Other Chemical Manufacturing,2.3,Petajoules,id_ca_e_42
+Electricity,Resin and Synthetic Rubber Industries,,Petajoules,id_ca_e_43
+Natural Gas,Resin and Synthetic Rubber Industries,,Petajoules,id_ca_e_43
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Resin and Synthetic Rubber Industries,0.1,Petajoules,id_ca_e_43
+Other1,Resin and Synthetic Rubber Industries,8.2,Petajoules,id_ca_e_43
+Electricity,Motor Vehicle Plastic Parts Manufacturing,2.4,Petajoules,id_ca_e_44
+Natural Gas,Motor Vehicle Plastic Parts Manufacturing,2.1,Petajoules,id_ca_e_44
+LPG and Gas Plant NGL,Motor Vehicle Plastic Parts Manufacturing,0.1,Petajoules,id_ca_e_44
+Electricity,Rubber Products Industries,3.1,Petajoules,id_ca_e_45
+Natural Gas,Rubber Products Industries,3.5,Petajoules,id_ca_e_45
+Heavy Fuel Oil,Rubber Products Industries,,Petajoules,id_ca_e_45
+LPG and Gas Plant NGL,Rubber Products Industries,,Petajoules,id_ca_e_45
+Electricity,Cement Industry,8.0,Petajoules,id_ca_e_46
+Natural Gas,Cement Industry,,Petajoules,id_ca_e_46
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Cement Industry,0.3,Petajoules,id_ca_e_46
+Heavy Fuel Oil,Cement Industry,,Petajoules,id_ca_e_46
+Still Gas and Petroleum Coke,Cement Industry,,Petajoules,id_ca_e_46
+LPG and Gas Plant NGL,Cement Industry,,Petajoules,id_ca_e_46
+Coal,Cement Industry,15.1,Petajoules,id_ca_e_46
+Coke and Coke Oven Gas,Cement Industry,,Petajoules,id_ca_e_46
+Other1,Cement Industry,4.0,Petajoules,id_ca_e_46
+Electricity,Iron and Steel,31.9,Petajoules,id_ca_e_47
+Natural Gas,Iron and Steel,,Petajoules,id_ca_e_47
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Iron and Steel,,Petajoules,id_ca_e_47
+Heavy Fuel Oil,Iron and Steel,,Petajoules,id_ca_e_47
+Still Gas and Petroleum Coke,Iron and Steel,,Petajoules,id_ca_e_47
+LPG and Gas Plant NGL,Iron and Steel,,Petajoules,id_ca_e_47
+Coal,Iron and Steel,,Petajoules,id_ca_e_47
+Coke and Coke Oven Gas,Iron and Steel,99.6,Petajoules,id_ca_e_47
+Electricity,Primary Production of Alumina and Aluminum,,Petajoules,id_ca_e_48
+Natural Gas,Primary Production of Alumina and Aluminum,,Petajoules,id_ca_e_48
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Primary Production of Alumina and Aluminum,,Petajoules,id_ca_e_48
+Heavy Fuel Oil,Primary Production of Alumina and Aluminum,,Petajoules,id_ca_e_48
+LPG and Gas Plant NGL,Primary Production of Alumina and Aluminum,,Petajoules,id_ca_e_48
+Electricity,Other Non-Ferrous Smelting and Refining,27.4,Petajoules,id_ca_e_49
+Natural Gas,Other Non-Ferrous Smelting and Refining,16.5,Petajoules,id_ca_e_49
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Other Non-Ferrous Smelting and Refining,1.5,Petajoules,id_ca_e_49
+Heavy Fuel Oil,Other Non-Ferrous Smelting and Refining,,Petajoules,id_ca_e_49
+Still Gas and Petroleum Coke,Other Non-Ferrous Smelting and Refining,,Petajoules,id_ca_e_49
+LPG and Gas Plant NGL,Other Non-Ferrous Smelting and Refining,,Petajoules,id_ca_e_49
+Coal,Other Non-Ferrous Smelting and Refining,,Petajoules,id_ca_e_49
+Coke and Coke Oven Gas,Other Non-Ferrous Smelting and Refining,,Petajoules,id_ca_e_49
+Wood Waste and Pulping Liquor,Other Non-Ferrous Smelting and Refining,,Petajoules,id_ca_e_49
+Electricity,Fabricated Metal Products Industries,11.1,Petajoules,id_ca_e_50
+Natural Gas,Fabricated Metal Products Industries,,Petajoules,id_ca_e_50
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Fabricated Metal Products Industries,,Petajoules,id_ca_e_50
+Heavy Fuel Oil,Fabricated Metal Products Industries,,Petajoules,id_ca_e_50
+LPG and Gas Plant NGL,Fabricated Metal Products Industries,0.5,Petajoules,id_ca_e_50
+Wood Waste and Pulping Liquor,Fabricated Metal Products Industries,,Petajoules,id_ca_e_50
+Electricity,Machinery Industries,6.8,Petajoules,id_ca_e_51
+Natural Gas,Machinery Industries,,Petajoules,id_ca_e_51
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Machinery Industries,0.1,Petajoules,id_ca_e_51
+LPG and Gas Plant NGL,Machinery Industries,0.2,Petajoules,id_ca_e_51
+Other1,Machinery Industries,,Petajoules,id_ca_e_51
+Electricity,Computer and Electronic Products Industries,3.4,Petajoules,id_ca_e_52
+Natural Gas,Computer and Electronic Products Industries,,Petajoules,id_ca_e_52
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Computer and Electronic Products Industries,,Petajoules,id_ca_e_52
+LPG and Gas Plant NGL,Computer and Electronic Products Industries,,Petajoules,id_ca_e_52
+Electricity,Electrical Equipment and Components Industries,3.0,Petajoules,id_ca_e_53
+Natural Gas,Electrical Equipment and Components Industries,,Petajoules,id_ca_e_53
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Electrical Equipment and Components Industries,,Petajoules,id_ca_e_53
+Electricity,Motor Vehicle Industry,5.2,Petajoules,id_ca_e_54
+Natural Gas,Motor Vehicle Industry,,Petajoules,id_ca_e_54
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Motor Vehicle Industry,,Petajoules,id_ca_e_54
+Other1,Motor Vehicle Industry,,Petajoules,id_ca_e_54
+Electricity,Motor Vehicle Gasoline Engine and Engine Parts Manufacturing,1.7,Petajoules,id_ca_e_55
+Natural Gas,Motor Vehicle Gasoline Engine and Engine Parts Manufacturing,0.4,Petajoules,id_ca_e_55
+Electricity,Motor Vehicle Electrical and Electronic Equipment Manufacturing,,Petajoules,id_ca_e_56
+Natural Gas,Motor Vehicle Electrical and Electronic Equipment Manufacturing,,Petajoules,id_ca_e_56
+LPG and Gas Plant NGL,Motor Vehicle Electrical and Electronic Equipment Manufacturing,,Petajoules,id_ca_e_56
+Electricity,Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing,0.4,Petajoules,id_ca_e_57
+Natural Gas,Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing,,Petajoules,id_ca_e_57
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing,,Petajoules,id_ca_e_57
+Electricity,Motor Vehicle Brake System Manufacturing Secondary Energy Use and GHG Emission,0.3,Petajoules,id_ca_e_58
+Natural Gas,Motor Vehicle Brake System Manufacturing Secondary Energy Use and GHG Emission,0.2,Petajoules,id_ca_e_58
+Electricity,Motor Vehicle Transmission and Power Train Parts Manufacturing Secondary Energy Use and GHG Emission,1.5,Petajoules,id_ca_e_59
+Natural Gas,Motor Vehicle Transmission and Power Train Parts Manufacturing Secondary Energy Use and GHG Emission,,Petajoules,id_ca_e_59
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Motor Vehicle Transmission and Power Train Parts Manufacturing Secondary Energy Use and GHG Emission,,Petajoules,id_ca_e_59
+Electricity,Motor Vehicle Seating and Interior Trim Manufacturing Secondary Energy Use and GHG Emission,0.6,Petajoules,id_ca_e_60
+Natural Gas,Motor Vehicle Seating and Interior Trim Manufacturing Secondary Energy Use and GHG Emission,,Petajoules,id_ca_e_60
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Motor Vehicle Seating and Interior Trim Manufacturing Secondary Energy Use and GHG Emission,,Petajoules,id_ca_e_60
+Electricity,Motor Vehicle Metal Stamping Secondary Energy Use and GHG Emission,,Petajoules,id_ca_e_61
+Natural Gas,Motor Vehicle Metal Stamping Secondary Energy Use and GHG Emission,,Petajoules,id_ca_e_61
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Motor Vehicle Metal Stamping Secondary Energy Use and GHG Emission,,Petajoules,id_ca_e_61
+LPG and Gas Plant NGL,Motor Vehicle Metal Stamping Secondary Energy Use and GHG Emission,,Petajoules,id_ca_e_61
+Other1,Motor Vehicle Metal Stamping Secondary Energy Use and GHG Emission,,Petajoules,id_ca_e_61
+Electricity,Other Motor Vehicle Parts Manufacturing Secondary Energy Use and GHG Emission,1.6,Petajoules,id_ca_e_62
+Natural Gas,Other Motor Vehicle Parts Manufacturing Secondary Energy Use and GHG Emission,1.9,Petajoules,id_ca_e_62
+Electricity,Furniture and Related Products Industries,3.6,Petajoules,id_ca_e_63
+Natural Gas,Furniture and Related Products Industries,,Petajoules,id_ca_e_63
+LPG and Gas Plant NGL,Furniture and Related Products Industries,0.1,Petajoules,id_ca_e_63
+Wood Waste and Pulping Liquor,Furniture and Related Products Industries,,Petajoules,id_ca_e_63
+Electricity,Miscellaneous Manufacturing Secondary Energy Use and GHG Emission,2.4,Petajoules,id_ca_e_64
+Natural Gas,Miscellaneous Manufacturing Secondary Energy Use and GHG Emission,4.3,Petajoules,id_ca_e_64
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Miscellaneous Manufacturing Secondary Energy Use and GHG Emission,,Petajoules,id_ca_e_64
+LPG and Gas Plant NGL,Miscellaneous Manufacturing Secondary Energy Use and GHG Emission,,Petajoules,id_ca_e_64
+Electricity,Other Manufacturing n.e.c.,36.7,Petajoules,id_ca_e_65
+Natural Gas,Other Manufacturing n.e.c.,82.9,Petajoules,id_ca_e_65
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Other Manufacturing n.e.c.,3.6,Petajoules,id_ca_e_65
+Heavy Fuel Oil,Other Manufacturing n.e.c.,1.3,Petajoules,id_ca_e_65
+Still Gas and Petroleum Coke,Other Manufacturing n.e.c.,3.5,Petajoules,id_ca_e_65
+LPG and Gas Plant NGL,Other Manufacturing n.e.c.,2.0,Petajoules,id_ca_e_65
+Coal,Other Manufacturing n.e.c.,3.5,Petajoules,id_ca_e_65
+Coke and Coke Oven Gas,Other Manufacturing n.e.c.,0.7,Petajoules,id_ca_e_65
+Wood Waste and Pulping Liquor,Other Manufacturing n.e.c.,18.2,Petajoules,id_ca_e_65
+Other1,Other Manufacturing n.e.c.,1.5,Petajoules,id_ca_e_65
+Electricity,Construction,,Petajoules,id_ca_e_66
+Natural Gas,Construction,18.7,Petajoules,id_ca_e_66
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Construction,88.5,Petajoules,id_ca_e_66
+Heavy Fuel Oil,Construction,,Petajoules,id_ca_e_66
+LPG and Gas Plant NGL,Construction,,Petajoules,id_ca_e_66
+Electricity,Forestry,,Petajoules,id_ca_e_67
+"Diesel Fuel Oil, Light Fuel Oil and Kerosene",Forestry,23.4,Petajoules,id_ca_e_67
+Heavy Fuel Oil,Forestry,,Petajoules,id_ca_e_67
