@@ -8,4 +8,4 @@ wget -nc https://www.cer-rec.gc.ca/open/imports-exports/natural-gas-exports-and-
 
 # Layer 2
 wget -nc https://www150.statcan.gc.ca/n1/tbl/csv/25100029-eng.zip
-unzip https://www150.statcan.gc.ca/n1/tbl/csv/25100029-eng.zip
+unzip 25100029-eng.zip
