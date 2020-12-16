@@ -1,0 +1,13 @@
+Source,Target,Value,Units,Table ID
+Road Transportation,Passenger Road Transportation,"1,119.0",Petajoules,tranca2017e_12
+Road Transportation,Freight Road Transportation,953.5,Petajoules,tranca2017e_12
+Road Transportation,Passenger Road Transportation,"1,119.0",Petajoules,tranca2017e_15
+Road Transportation,Freight Road Transportation,953.5,Petajoules,tranca2017e_15
+Air Transportation,Passenger Air Transportation ,284.9,Petajoules,tranca2017e_19
+Air Transportation,Freight Air Transportation,6.2,Petajoules,tranca2017e_19
+Truck,Passenger Truck Transportation,558.4,Petajoules,tranca2017e_36
+Truck,Freight Truck Transportation,953.5,Petajoules,tranca2017e_36
+Truck,Passenger Truck Transportation,558.4,Petajoules,tranca2017e_39
+Truck,Freight Truck Transportation,953.5,Petajoules,tranca2017e_39
+Light Truck,Passenger Light Truck Transportation,558.4,Petajoules,tranca2017e_51
+Light Truck,Freight Light Truck Transportation,219.1,Petajoules,tranca2017e_51

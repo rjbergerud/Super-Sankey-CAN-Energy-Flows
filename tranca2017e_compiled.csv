@@ -1,0 +1,123 @@
+Source,Target,Value,Units,Table ID
+Electricity,Road Transportation,4.4,Petajoules,tranca2017e_12
+Natural Gas,Road Transportation,4.6,Petajoules,tranca2017e_12
+Motor Gasoline,Road Transportation,"1,417.0",Petajoules,tranca2017e_12
+Diesel Fuel Oil,Road Transportation,634.4,Petajoules,tranca2017e_12
+Ethanol,Road Transportation,,Petajoules,tranca2017e_12
+Biodiesel Fuel,Road Transportation,,Petajoules,tranca2017e_12
+Propane,Road Transportation,12.2,Petajoules,tranca2017e_12
+Electricity,Passenger Road Transportation,4.4,Petajoules,tranca2017e_13
+Natural Gas,Passenger Road Transportation,4.2,Petajoules,tranca2017e_13
+Motor Gasoline,Passenger Road Transportation,"1,055.6",Petajoules,tranca2017e_13
+Diesel Fuel Oil,Passenger Road Transportation,48.8,Petajoules,tranca2017e_13
+Ethanol,Passenger Road Transportation,,Petajoules,tranca2017e_13
+Biodiesel Fuel,Passenger Road Transportation,,Petajoules,tranca2017e_13
+Propane,Passenger Road Transportation,6.1,Petajoules,tranca2017e_13
+Natural Gas,Freight Road Transportation,0.4,Petajoules,tranca2017e_14
+Motor Gasoline,Freight Road Transportation,361.4,Petajoules,tranca2017e_14
+Diesel Fuel Oil,Freight Road Transportation,585.7,Petajoules,tranca2017e_14
+Ethanol,Freight Road Transportation,,Petajoules,tranca2017e_14
+Biodiesel Fuel,Freight Road Transportation,,Petajoules,tranca2017e_14
+Propane,Freight Road Transportation,6.1,Petajoules,tranca2017e_14
+Road Transportation,Cars,509.7,Petajoules,tranca2017e_15
+Road Transportation,Passenger Light Trucks,558.4,Petajoules,tranca2017e_15
+Road Transportation,Freight Light Trucks,219.1,Petajoules,tranca2017e_15
+Road Transportation,Medium Trucks,283.0,Petajoules,tranca2017e_15
+Road Transportation,Heavy Trucks,451.4,Petajoules,tranca2017e_15
+Road Transportation,Motorcycles,5.5,Petajoules,tranca2017e_15
+Road Transportation,School Buses,7.6,Petajoules,tranca2017e_15
+Road Transportation,Urban Transit,34.6,Petajoules,tranca2017e_15
+Road Transportation,Inter-City Buses,3.2,Petajoules,tranca2017e_15
+Aviation Gasoline,Air Transportation,2.3,Petajoules,tranca2017e_19
+Aviation Turbo Fuel,Air Transportation,288.8,Petajoules,tranca2017e_19
+Aviation Gasoline,Passenger Air Transportation,2.2,Petajoules,tranca2017e_20
+Aviation Turbo Fuel,Passenger Air Transportation,282.7,Petajoules,tranca2017e_20
+Aviation Gasoline,Freight Air Transportation,0.0,Petajoules,tranca2017e_21
+Aviation Turbo Fuel,Freight Air Transportation,6.1,Petajoules,tranca2017e_21
+Diesel Fuel Oil,Marine Transportation,32.4,Petajoules,tranca2017e_28
+Heavy Fuel Oil,Marine Transportation,43.3,Petajoules,tranca2017e_28
+Natural Gas,Car,0.3,Petajoules,tranca2017e_30
+Motor Gasoline,Car,497.4,Petajoules,tranca2017e_30
+Diesel Fuel Oil,Car,7.1,Petajoules,tranca2017e_30
+Ethanol,Car,,Petajoules,tranca2017e_30
+Biodiesel Fuel,Car,,Petajoules,tranca2017e_30
+Propane,Car,4.9,Petajoules,tranca2017e_30
+Car Explanatory Variables,Cars,622,Petajoules,tranca2017e_32
+Electricity,Bus,4.4,Petajoules,tranca2017e_33
+Natural Gas,Bus,3.9,Petajoules,tranca2017e_33
+Motor Gasoline,Bus,1.9,Petajoules,tranca2017e_33
+Diesel Fuel Oil,Bus,35.3,Petajoules,tranca2017e_33
+Ethanol,Bus,,Petajoules,tranca2017e_33
+Biodiesel Fuel,Bus,,Petajoules,tranca2017e_33
+Propane,Bus,0.0,Petajoules,tranca2017e_33
+Bus,School Buses,7.6,Petajoules,tranca2017e_34
+Bus,Urban Transit,34.6,Petajoules,tranca2017e_34
+Bus,Inter-City Buses,3.2,Petajoules,tranca2017e_34
+Natural Gas,Truck,0.4,Petajoules,tranca2017e_36
+Motor Gasoline,Truck,912.2,Petajoules,tranca2017e_36
+Diesel Fuel Oil,Truck,592.0,Petajoules,tranca2017e_36
+Ethanol,Truck,,Petajoules,tranca2017e_36
+Biodiesel Fuel,Truck,,Petajoules,tranca2017e_36
+Propane,Truck,7.3,Petajoules,tranca2017e_36
+Natural Gas,Passenger Truck,0.0,Petajoules,tranca2017e_37
+Motor Gasoline,Passenger Truck,550.8,Petajoules,tranca2017e_37
+Diesel Fuel Oil,Passenger Truck,6.4,Petajoules,tranca2017e_37
+Ethanol,Passenger Truck,,Petajoules,tranca2017e_37
+Biodiesel Fuel,Passenger Truck,,Petajoules,tranca2017e_37
+Propane,Passenger Truck,1.2,Petajoules,tranca2017e_37
+Natural Gas,Freight Truck,0.4,Petajoules,tranca2017e_38
+Motor Gasoline,Freight Truck,361.4,Petajoules,tranca2017e_38
+Diesel Fuel Oil,Freight Truck,585.7,Petajoules,tranca2017e_38
+Ethanol,Freight Truck,,Petajoules,tranca2017e_38
+Biodiesel Fuel,Freight Truck,,Petajoules,tranca2017e_38
+Propane,Freight Truck,6.1,Petajoules,tranca2017e_38
+Truck,Passenger Light Trucks,558.4,Petajoules,tranca2017e_39
+Truck,Freight Light Trucks,219.1,Petajoules,tranca2017e_39
+Truck,Medium Trucks,283.0,Petajoules,tranca2017e_39
+Truck,Heavy Trucks,451.4,Petajoules,tranca2017e_39
+Natural Gas,School Bus,1.8,Petajoules,tranca2017e_43
+Motor Gasoline,School Bus,1.0,Petajoules,tranca2017e_43
+Diesel Fuel Oil,School Bus,4.8,Petajoules,tranca2017e_43
+Ethanol,School Bus,,Petajoules,tranca2017e_43
+Biodiesel Fuel,School Bus,,Petajoules,tranca2017e_43
+Propane,School Bus,0.0,Petajoules,tranca2017e_43
+Electricity,Urban Transit,4.4,Petajoules,tranca2017e_45
+Natural Gas,Urban Transit,2.1,Petajoules,tranca2017e_45
+Motor Gasoline,Urban Transit,0.5,Petajoules,tranca2017e_45
+Diesel Fuel Oil,Urban Transit,27.7,Petajoules,tranca2017e_45
+Ethanol,Urban Transit,,Petajoules,tranca2017e_45
+Biodiesel Fuel,Urban Transit,,Petajoules,tranca2017e_45
+Propane,Urban Transit,0.0,Petajoules,tranca2017e_45
+Motor Gasoline,Inter-City Bus,0.5,Petajoules,tranca2017e_47
+Diesel Fuel Oil,Inter-City Bus,2.8,Petajoules,tranca2017e_47
+Ethanol,Inter-City Bus,,Petajoules,tranca2017e_47
+Biodiesel Fuel,Inter-City Bus,,Petajoules,tranca2017e_47
+Bus Explanatory Variable,School Buses,50,Petajoules,tranca2017e_49
+Bus Explanatory Variable,Urban Transit,29,Petajoules,tranca2017e_49
+Bus Explanatory Variable,Inter-City Buses,11,Petajoules,tranca2017e_49
+Natural Gas,Light Truck,0.1,Petajoules,tranca2017e_51
+Motor Gasoline,Light Truck,761.8,Petajoules,tranca2017e_51
+Diesel Fuel Oil,Light Truck,8.8,Petajoules,tranca2017e_51
+Ethanol,Light Truck,,Petajoules,tranca2017e_51
+Biodiesel Fuel,Light Truck,,Petajoules,tranca2017e_51
+Propane,Light Truck,6.9,Petajoules,tranca2017e_51
+Natural Gas,Passenger Light Truck,0.0,Petajoules,tranca2017e_52
+Motor Gasoline,Passenger Light Truck,550.8,Petajoules,tranca2017e_52
+Diesel Fuel Oil,Passenger Light Truck,6.4,Petajoules,tranca2017e_52
+Ethanol,Passenger Light Truck,,Petajoules,tranca2017e_52
+Biodiesel Fuel,Passenger Light Truck,,Petajoules,tranca2017e_52
+Propane,Passenger Light Truck,1.2,Petajoules,tranca2017e_52
+Natural Gas,Freight Light Truck,0.1,Petajoules,tranca2017e_53
+Motor Gasoline,Freight Light Truck,211.0,Petajoules,tranca2017e_53
+Diesel Fuel Oil,Freight Light Truck,2.4,Petajoules,tranca2017e_53
+Ethanol,Freight Light Truck,,Petajoules,tranca2017e_53
+Biodiesel Fuel,Freight Light Truck,,Petajoules,tranca2017e_53
+Propane,Freight Light Truck,5.6,Petajoules,tranca2017e_53
+Motor Gasoline,Medium Truck,150.4,Petajoules,tranca2017e_57
+Diesel Fuel Oil,Medium Truck,131.8,Petajoules,tranca2017e_57
+Ethanol,Medium Truck,,Petajoules,tranca2017e_57
+Biodiesel Fuel,Medium Truck,,Petajoules,tranca2017e_57
+Truck Explanatory Variable,Passenger Light Trucks,921,Petajoules,tranca2017e_60
+Truck Explanatory Variable,Freight Light Trucks,305,Petajoules,tranca2017e_60
+Truck Explanatory Variable,Medium Trucks,135,Petajoules,tranca2017e_60
+Truck Explanatory Variable,Heavy Trucks,27,Petajoules,tranca2017e_60
