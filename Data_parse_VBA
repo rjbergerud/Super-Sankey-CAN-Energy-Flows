@@ -13,7 +13,7 @@ xDir = folder.SelectedItems(1)
 
 For Each xWs In Application.ActiveWorkbook.Worksheets
 wsSplit = Split(xWs.Name, " ")
-fileName = "tranCa2017e_" & wsSplit(1)
+fileName = "idca2017e_" & wsSplit(1)
 xWs.SaveAs xDir & "\" & fileName, xlCSV
 Next
 
