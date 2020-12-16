@@ -1,0 +1,20 @@
+#Use this code to parse the .xls file from nrcan into separate, uniquely named CSV files
+#Delete "Menu" sheet from .xls file, then run as a VBA module in Excel
+
+Sub SaveWorksheetsAsCsv()
+Dim xWs As Worksheet
+Dim xDir As String
+Dim folder As FileDialog
+Dim wsSplit() As String
+Dim fileName As String
+Set folder = Application.FileDialog(msoFileDialogFolderPicker)
+If folder.Show <> -1 Then Exit Sub
+xDir = folder.SelectedItems(1)
+
+For Each xWs In Application.ActiveWorkbook.Worksheets
+wsSplit = Split(xWs.Name, " ")
+fileName = "tranCa2017e_" & wsSplit(1)
+xWs.SaveAs xDir & "\" & fileName, xlCSV
+Next
+
+End Sub
