@@ -17,6 +17,6 @@ else:
 hv.extension('bokeh')
 
 sankey = hv.Sankey(edges, label='Energy Diagram')
-sankey.opts(label_position='left', height=1400, width=2000, edge_color='target', node_color='index', cmap='tab20', node_padding=4)
+sankey.opts(label_position='left', height=1400, width=4000, edge_color='target', node_color='index', cmap='tab20', node_padding=4)
 panel_object = pn.pane.HoloViews(sankey)
 pn.pane.HoloViews(sankey).save('build/sankey.html', embed=True, resources=INLINE)
