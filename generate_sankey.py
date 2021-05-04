@@ -7,16 +7,19 @@ import sys
 if len(sys.argv) == 2:
     file_path = sys.argv[1]
     df = pd.read_csv(file_path)
+    df['value'] = df['value percent']
     edges = df[['source', 'target', 'value']]
+    edges = edges.replace('\(passthrough','\(pt')
     edges = edges.dropna(how="any")
     edges = edges.fillna(0)
     edges = edges[edges['value'] != 0]
+    edges['value'] = pd.to_numeric(edges['value'])
 else:
     file_path = "data/sankey_example.csv"
 
 hv.extension('bokeh')
 
 sankey = hv.Sankey(edges, label='Energy Diagram')
-sankey.opts(label_position='left', height=1400, width=4000, edge_color='target', node_color='index', cmap='tab20', node_padding=4)
+sankey.opts(label_position='left', height=1400, width=5000, edge_color='target', node_color='index', cmap='tab20', node_padding=4)
 panel_object = pn.pane.HoloViews(sankey)
 pn.pane.HoloViews(sankey).save('build/sankey.html', embed=True, resources=INLINE)
